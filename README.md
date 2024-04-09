@@ -1,5 +1,1 @@
-![this is the screenshot of how web api looks][def]
-
-
-
-[def]: ss.jpg
+to see how web api looks refer the file "ss.jpg"
